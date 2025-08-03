@@ -12,7 +12,7 @@
 **📞 联系方式**
 - **邮箱：**   13555985732@163.com
 - **电话：** 13555985732
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20040122)
 # Languages and Tools
 
 ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,mysql,ubuntu,linux,windows,php,java,c,cpp,vscode,idea,clion,cloudflare,github,git,apple,anaconda,cmake,gmail,lit,maven,netlify,latex,phpstorm,postman,pycharm,qt,sqlite,spring,selenium)
