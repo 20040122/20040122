@@ -15,13 +15,14 @@
 **🚀 教育经历**
 - **本科：** 某211–计算机科学与技术
 - **硕士：** 某985–软件工程
-- 
+
 **🎯 未来方向**
 - EDA-HLS?
 - 工业软件测试?
-- 
+
 **📞 联系方式**
 - **邮箱：**   13555985732@163.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20040122)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20040122)
 # Languages and Tools
