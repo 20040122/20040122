@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   
   <h1>
-    Hey, I'm <a href="https://wcowin.work/VitePress/">Wcowin</a>!
+    Hey, I'm 230👋!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b>Student | Open-source Technology & Math Enthusiast | Coffee Lover | Poetry Lover | Badminton Player</b>
+    <b>Student | Open-source Technology</b>
   </p>
 </div>
-# "Hi there, I’m 230 👋"
+
 我是张长明，期待在这里与你分享我的见解、经验和最新的动态。
 
 **🚀 教育经历**
