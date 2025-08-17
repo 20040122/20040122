@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b>Student | Open-source Technology</b>
+    <b>学生 | 研究生 | 想休息</b>
   </p>
 </div>
 
@@ -20,7 +20,6 @@
 - **邮箱：**   13555985732@163.com
 - **Blog：**   [230](https://zcm230.top/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20040122)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20040122)
 # Languages and Tools
 
