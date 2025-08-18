@@ -10,7 +10,7 @@
   </p>
 </div>
 
-## 我是230，期待在这里与你分享我的见解、经验和最新的动态。仓库里面都是一些基础到不能在基础的内容。
+我是230，期待在这里与你分享我的见解、经验和最新的动态。仓库里面都是一些基础到不能在基础的内容。
 
 **🎯 未来方向**
 - **也许是EDA-HLS?**
@@ -26,5 +26,4 @@
 
 ![SkillIcons](https://skillicons.dev/icons?i=js,html,css,mysql,ubuntu,linux,windows,php,java,c,cpp,vscode,idea,clion,cloudflare,github,git,apple,anaconda,cmake,gmail,lit,maven,netlify,latex,phpstorm,postman,pycharm,qt,sqlite,spring,selenium)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20040122)
 
