@@ -6,20 +6,17 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b> 📚学生 | 🧑‍🎓研究生在读  </b>
+    <b> 📚学生 | 🧑‍🎓研究生  </b>
   </p>
 </div>
 
-我是230，期待在这里与你分享我的见解、经验和最新的动态。仓库里面都是一些基础到不能在基础的内容。
+我是230，期待在这里与你分享我的见解、经验和最新的动态。
 
-**😴 目前忙于**
-- **新型DLS语言，适配多任务无人设备分布式协同工作。**
-
-**🎯 未来方向**
-- **新型DLS**
+**🎯 方向**
+- **编译器**
 
 **📞 联系方式**
-- **邮箱：**   13555985732@163.com
+- **Email：**   13555985732@163.com
 - **Blog：**   [230](https://zcm230.top/)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=20040122&theme=github-compact)
