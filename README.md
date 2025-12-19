@@ -6,14 +6,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b> 📚学生 | 🧑‍🎓研究生  </b>
+    <b> 🧑‍🎓研究生  </b>
   </p>
 </div>
 
-我是230，期待在这里与你分享我的见解、经验和最新的动态。
+在这里与你分享我的见解、经验和最新的动态。
 
 **🎯 方向**
-- **编译器**
+- **领域特定语言**
 
 **📞 联系方式**
 - **Email：**   13555985732@163.com
