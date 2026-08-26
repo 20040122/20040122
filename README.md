@@ -16,9 +16,8 @@
 - 💪🏽Focused on **AI-Agent in SCADA**
 - 🔨Main tools：**OpenCode,Codex,DeepSeek,Python,DSL**
 - 🎯Goal:Living with no worries.
-- 📞Contact：**Email：**   13555985732@163.com · **Blog：**   [230](https://zcm230.top/)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=20040122&theme=github-compact)
+- 📞Contact：**Email：**  z2307692313@gmail.com
+- **Blog：**   [230](https://zcm230.top/)
 
 # 🧑🏼‍💻Languages and Tools
 
