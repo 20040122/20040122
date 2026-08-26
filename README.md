@@ -14,9 +14,9 @@
 - 🎓M.S. Student at **Dalian University of Technology(DUT)**
 - 🏫B.S. from **LiaoNing University(LNU)**
 - 💪🏽Focused on **AI-Agent in SCADA**
-- 🔨Main tools：**OpenCode,Codex,DeepSeek,Python,DSL**
-- 🎯Goal:Living with no worries.
-- 📞Contact：**Email：**  z2307692313@gmail.com
+- 🔨Main tools：**OpenCode,Codex,DeepSeek,Agent**
+- 🎯Goal：生死看淡，不服就干！
+- **Email：**  z2307692313@gmail.com
 - **Blog：**   [230](https://zcm230.top/)
 
 # 🧑🏼‍💻Languages and Tools
