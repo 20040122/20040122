@@ -15,12 +15,6 @@
 - 🏫B.S. from **LiaoNing University(LNU)**
 - 💪🏽Focused on **AI-Agent in SCADA**
 - 🔨Main tools：**OpenCode,Codex,DeepSeek,Agent**
-- 🎯Goal：生死看淡，不服就干！
+- 🎯Goal：改变世界
 - **Email：**  z2307692313@gmail.com
 - **Blog：**   [230](https://zcm230.top/)
-
-# 🧑🏼‍💻Languages and Tools
-
-![SkillIcons](https://skillicons.dev/icons?i=js,html,css,mysql,ubuntu,linux,windows,php,java,c,cpp,vscode,idea,clion,cloudflare,github,git,apple,anaconda,cmake,gmail,lit,maven,netlify,latex,phpstorm,postman,pycharm,qt,sqlite,spring,selenium)
-
-
