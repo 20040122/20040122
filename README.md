@@ -6,14 +6,12 @@
     Hey, I'm 230（张长明）
   </h1>
   <p align="center">
-    <b> 🧑‍🎓PhD · 💻Vibe Coding · 🛠️Full-Stack Developer</b>
+    <b> 🧑‍🎓 PhD · 💻 Vibe Coding · 🛠️ DEBUG</b>
   </p>
 </div>
 
 # About Me
-- M.S. Student at **Dalian University of Technology(DUT)**
+- M.S.–Ph.D. Student at **Dalian University of Technology (DUT)**
 - B.S. from **LiaoNing University(LNU)**
-- Main tools：**OpenCode,Codex,Claude,DSH,Pi**
-- Goal：毕业
-- **Email：**  z2307692313@gmail.com
-- **Blog：**   [230](https://zcm230.top/)
+- Tools：**OpenCode,Codex,Claude,DSH**
+- Blog： [230](https://zcm230.top/)
